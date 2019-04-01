@@ -1,0 +1,10 @@
+{
+	"Command": [
+		"/usr/local/bin/gauge",
+		"run",
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console",
+		"/Users/sahabt/Documents/workspace/nsProject/Web/specs/TestSepects.spec:8"
+	]
+}

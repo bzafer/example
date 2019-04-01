@@ -1,0 +1,80 @@
+Created by sahabt on 24.02.2019
+
+This is a concept file with following syntax for each concept.
+#Switch to language on english
+*Click on the "a[class='headerLink headerLink--enLang']" value
+*"2" times waiting
+*The control of the switch to do english on page
+
+#Click on the myns button
+*Click on the "a[class='headerLink headerLink--myns']>span" value
+*"1" times waiting
+*Do to the control of login button
+
+
+
+#Click on search button, write <keyword> and searching
+*Click on the "a[class='headerLink headerLink--search']>span" value
+*"1" times waiting
+*write <keyword> and searching
+*"1" times waiting
+
+
+#Select 'Aankomst' in 'Vertrek / Aankomst' selection.
+*Scroll to element to be find "radioArrival"
+*"3" times waiting
+*Click on css "#radioArrival" with javascrip
+*"3" times waiting
+
+
+#Select 'Vertrek' in 'Vertrek / Aankomst' selection.
+*click on  "radioDeparture"
+
+#Select 'Tomorrow' in date selection.
+*Click on the "span[class='rppb-date-button__date']" value
+*"2" times waiting
+*Click on the "tbody>tr>td[class='is-today is-selected']+td>button" value
+
+#Select <day> in date selection.
+*Click on the "span[class='rppb-date-button__date']" value
+*"2" times waiting
+*Write css "table[class='pika-table']>tbody>tr>td>button " value to text <day>
+*"2" times waiting
+
+
+
+#Click 'Plannen'.
+*Click on the "button[class='button button--arrowRight rppb-plan-button']" value
+*"3" times waiting
+
+
+
+#Click on 'Gegevens'.
+*Click on the "ul[class='mijnNSsubmenu__list']>li:nth-of-type(7)>a" value
+*"3" times waiting
+
+#Click 'Opslaan'.
+*Click on the "button[class='button mns-saveBtn']" value
+*"4" times waiting
+
+
+#Open the menu tab
+*Click on the "span[class='headerLink__text menuButton--menuClosed']" value
+*"2" times waiting
+
+
+#Click the profile button at the top right
+*Click on the "span[class='headerLink__text-full']" value
+*"2" times waiting
+
+#Click Startpagina Mijn NS button at the top right
+*Click on the "a[href='/mijnns#/dashboard']" value
+*"2" times waiting
+
+#Click logo on the main page
+*Click on the "div[class='nslogo nslogo--header header__logo']>a>img" value
+*"2" times waiting
+
+#Click Uitloggen at the top right
+*Click on the "Uitloggen"
+*"2" times waiting

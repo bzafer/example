@@ -1,0 +1,27 @@
+Created by sahabt on 24.02.2019
+
+This is a concept file with following syntax for each concept.
+#Click Inloggen Consumenten button
+* Click on the "a[class='button button--arrowRight button--fullWidth headerItem--myns__button']" value
+*"4" times waiting
+
+
+#Enter <email> in the field 'E-mailadres'.
+*Write "email" to <email> area
+*"1" times waiting
+
+
+#Enter <passoword> in the field 'Wachtwoord'.
+*Write "password" to <passoword> area
+*"1" times waiting
+
+
+#Click 'Inloggen'.
+*Click on the "div[class='login-button']" value
+*"4" times waiting
+
+
+
+
+
+

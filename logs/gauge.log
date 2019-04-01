@@ -1,0 +1,726 @@
+14:18:00.395 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+14:18:00.842 Gauge daemon initialized and listening on port: 51877
+17:47:57.809 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:47:58.437 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:27 Dynamic parameter <value> could not be resolved => 'Write cssSelector "input[class='textInput formfield__textInput ng-untouched ng-pristine ng-valid']" get index "2" to <value> area'
+17:47:58.437 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:47 Duplicate concept definition found => 'Select <month> in date selection.'
+17:47:58.437 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:41 Duplicate concept definition found => 'Select <day> in date selection.'
+17:47:59.620 Checking updates...
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:23 Step implementation not found => 'Write cssSelector "input[class='textInput formfield__textInput ng-pristine ng-valid ng-touched']" to <cityname> area'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:24 Step implementation not found => '"1" times waiting'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:27 Step implementation not found => 'Write cssSelector "input[class='textInput formfield__textInput ng-untouched ng-pristine ng-valid']" get index "2" to <value> area'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:28 Step implementation not found => '"1" times waiting'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/TestSepects.spec:31 Connection closed [127.0.0.1:64694] cause: EOF => 'click on  "radioArrival"'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/TestSepects.spec:37 write tcp 127.0.0.1:64686->127.0.0.1:64694: use of closed network connection => 'Click on the "span[class='rppb-date-button__date']" value'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:38 Step implementation not found => '"2" times waiting'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:39 write tcp 127.0.0.1:64686->127.0.0.1:64694: use of closed network connection => 'Click on the "td[aria-selected='true']" value'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:55 Step implementation not found => 'Write cssSelector "div[class='rppb-button rppb-time-button']>rio-pbm-time-input" to <time> area'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:56 Step implementation not found => '"2" times waiting'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:59 write tcp 127.0.0.1:64686->127.0.0.1:64694: use of closed network connection => 'Click on the "button[class='button button--arrowRight rppb-plan-button']" value'
+17:48:05.870 [ValidationError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:60 Step implementation not found => '"3" times waiting'
+17:48:05.870 Updates are available. Run `gauge update -c` for more info.
+17:48:58.708 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:48:59.258 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:20 Dynamic parameter <controlkeyword> could not be resolved => 'Do to the control  <controlkeyword> on search result'
+17:48:59.258 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:27 Dynamic parameter <value> could not be resolved => 'Write cssSelector "input[class='textInput formfield__textInput ng-untouched ng-pristine ng-valid']" get index "2" to <value> area'
+17:48:59.258 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:47 Duplicate concept definition found => 'Select <month> in date selection.'
+17:48:59.258 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:41 Duplicate concept definition found => 'Select <day> in date selection.'
+17:49:00.561 Checking updates...
+17:49:07.052 Updates are available. Run `gauge update -c` for more info.
+17:49:16.299 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:49:16.872 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:27 Dynamic parameter <value> could not be resolved => 'Write cssSelector "input[class='textInput formfield__textInput ng-untouched ng-pristine ng-valid']" get index "2" to <value> area'
+17:49:16.872 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:47 Duplicate concept definition found => 'Select <month> in date selection.'
+17:49:16.872 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:41 Duplicate concept definition found => 'Select <day> in date selection.'
+17:49:18.174 Checking updates...
+17:49:24.825 Updates are available. Run `gauge update -c` for more info.
+17:51:12.339 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:51:12.891 [ParseError] /Users/sahabt/Documents/workspace/nsProject/Web/specs/Concepts/MainPage.cpt:27 Dynamic parameter <value> could not be resolved => 'Write cssSelector "input[class='textInput formfield__textInput ng-untouched ng-pristine ng-valid']" get index "2" to <value> area'
+17:51:14.195 Checking updates...
+17:51:20.416 Updates are available. Run `gauge update -c` for more info.
+17:53:56.058 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:53:58.037 Checking updates...
+17:54:08.476 Plugin [Html Report] with pid [5719] has exited
+17:54:08.987 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:54:08.987 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:54:08.987 
+Total time taken: 5.047s
+17:54:08.987 Updates are available. Run `gauge update -c` for more info.
+17:55:23.146 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:55:25.079 Checking updates...
+17:55:35.885 Plugin [Html Report] with pid [5753] has exited
+17:55:36.387 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:55:36.388 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:55:36.388 
+Total time taken: 5.435s
+17:55:36.388 Updates are available. Run `gauge update -c` for more info.
+17:56:02.084 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:56:03.884 Checking updates...
+17:56:13.716 Plugin [Html Report] with pid [5792] has exited
+17:56:14.219 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:56:14.220 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:56:14.220 
+Total time taken: 4.487s
+17:56:14.220 Updates are available. Run `gauge update -c` for more info.
+17:56:34.403 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:56:36.242 Checking updates...
+17:56:58.043 Plugin [Html Report] with pid [5829] has exited
+17:56:58.547 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:56:58.547 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:56:58.547 
+Total time taken: 16.786s
+17:56:58.547 Updates are available. Run `gauge update -c` for more info.
+17:57:13.855 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:57:15.666 Checking updates...
+17:57:37.090 Plugin [Html Report] with pid [5867] has exited
+17:57:37.594 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:57:37.595 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:57:37.595 
+Total time taken: 16.038s
+17:57:37.595 Updates are available. Run `gauge update -c` for more info.
+17:58:25.608 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+17:58:27.409 Checking updates...
+17:58:53.649 Plugin [Html Report] with pid [5905] has exited
+17:58:54.159 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:58:54.159 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:58:54.159 
+Total time taken: 21.092s
+17:58:54.160 Updates are available. Run `gauge update -c` for more info.
+18:00:13.513 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:00:15.276 Checking updates...
+18:00:42.799 Plugin [Html Report] with pid [5959] has exited
+18:00:43.319 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:00:43.320 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:00:43.320 
+Total time taken: 22.4s
+18:00:43.320 Updates are available. Run `gauge update -c` for more info.
+18:02:56.457 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:02:58.307 Checking updates...
+18:03:28.490 Plugin [Html Report] with pid [6012] has exited
+18:03:29.000 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:03:29.000 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:03:29.000 
+Total time taken: 24.292s
+18:03:29.000 Updates are available. Run `gauge update -c` for more info.
+18:04:52.586 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:04:54.429 Checking updates...
+18:05:21.473 Plugin [Html Report] with pid [6064] has exited
+18:05:21.979 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:05:21.979 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:05:21.979 
+Total time taken: 22.006s
+18:05:21.979 Updates are available. Run `gauge update -c` for more info.
+18:12:35.817 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:12:37.687 Checking updates...
+18:13:08.432 Plugin [Html Report] with pid [6165] has exited
+18:13:08.946 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:13:08.946 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:13:08.946 
+Total time taken: 25.328s
+18:13:08.946 Updates are available. Run `gauge update -c` for more info.
+18:14:52.471 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:14:54.494 Checking updates...
+18:15:15.988 Plugin [Html Report] with pid [6217] has exited
+18:15:16.495 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:15:16.495 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:15:16.495 
+Total time taken: 16.775s
+18:15:16.495 Updates are available. Run `gauge update -c` for more info.
+18:20:35.024 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:20:37.136 Checking updates...
+18:21:10.396 Plugin [Html Report] with pid [6334] has exited
+18:21:10.919 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:21:10.919 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:21:10.919 
+Total time taken: 28.203s
+18:21:10.919 Updates are available. Run `gauge update -c` for more info.
+18:22:13.654 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:22:15.644 Checking updates...
+18:22:39.186 Plugin [Html Report] with pid [6380] has exited
+18:22:39.691 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:22:39.691 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:22:39.691 
+Total time taken: 18.748s
+18:22:39.691 Updates are available. Run `gauge update -c` for more info.
+18:25:40.493 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:25:42.304 Checking updates...
+18:26:10.241 Plugin [Html Report] with pid [6440] has exited
+18:26:10.759 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:26:10.759 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:26:10.759 
+Total time taken: 21.167s
+18:26:10.759 Updates are available. Run `gauge update -c` for more info.
+18:28:24.230 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:28:26.128 Checking updates...
+18:28:53.257 Plugin [Html Report] with pid [6495] has exited
+18:28:53.761 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:28:53.761 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:28:53.761 
+Total time taken: 22.137s
+18:28:53.761 Updates are available. Run `gauge update -c` for more info.
+18:31:05.678 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:31:07.611 Checking updates...
+18:31:21.778 Plugin [Html Report] with pid [6551] has exited
+18:31:22.281 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:31:22.281 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:31:22.281 
+Total time taken: 9.49s
+18:31:22.281 Updates are available. Run `gauge update -c` for more info.
+18:31:31.656 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:31:33.518 Checking updates...
+18:31:48.008 Plugin [Html Report] with pid [6585] has exited
+18:31:48.513 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:31:48.513 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:31:48.513 
+Total time taken: 9.644s
+18:31:48.513 Updates are available. Run `gauge update -c` for more info.
+18:31:53.182 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:31:55.041 Checking updates...
+18:32:09.544 Plugin [Html Report] with pid [6618] has exited
+18:32:10.048 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:32:10.048 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:32:10.048 
+Total time taken: 9.441s
+18:32:10.048 Updates are available. Run `gauge update -c` for more info.
+18:33:04.727 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:33:06.451 Checking updates...
+18:33:24.875 Plugin [Html Report] with pid [6661] has exited
+18:33:25.378 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:33:25.378 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:33:25.378 
+Total time taken: 13.37s
+18:33:25.378 Updates are available. Run `gauge update -c` for more info.
+18:34:14.319 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:34:16.229 Checking updates...
+18:34:34.747 Plugin [Html Report] with pid [6708] has exited
+18:34:35.259 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:34:35.259 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:34:35.259 
+Total time taken: 13.657s
+18:34:35.259 Updates are available. Run `gauge update -c` for more info.
+18:36:42.226 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:36:44.207 Checking updates...
+18:37:09.923 Plugin [Html Report] with pid [6761] has exited
+18:37:10.427 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:37:10.427 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:37:10.427 
+Total time taken: 20.639s
+18:37:10.427 Updates are available. Run `gauge update -c` for more info.
+18:45:25.271 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:45:27.166 Checking updates...
+18:45:51.226 Plugin [Html Report] with pid [6894] has exited
+18:45:51.745 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:45:51.745 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:45:51.745 
+Total time taken: 18.417s
+18:45:51.745 Updates are available. Run `gauge update -c` for more info.
+18:46:23.704 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:46:25.625 Checking updates...
+18:46:57.705 Plugin [Html Report] with pid [6934] has exited
+18:46:58.224 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:46:58.224 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:46:58.224 
+Total time taken: 26.531s
+18:46:58.225 Updates are available. Run `gauge update -c` for more info.
+18:48:29.349 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:48:31.190 Checking updates...
+18:48:47.006 Plugin [Html Report] with pid [6983] has exited
+18:48:47.209 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:48:47.209 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:48:47.209 
+Total time taken: 10.991s
+18:48:47.210 Updates are available. Run `gauge update -c` for more info.
+18:49:23.367 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:49:25.988 Checking updates...
+18:50:26.268 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:50:27.270 Unable to send analytics data, timed out
+18:50:29.049 Checking updates...
+18:50:45.439 Plugin [Html Report] with pid [7021] has exited
+18:50:45.967 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:50:45.967 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:50:45.967 
+Total time taken: 1m9.457s
+18:50:45.967 Updates are available. Run `gauge update -c` for more info.
+18:50:47.423 Plugin [Html Report] with pid [7062] has exited
+18:50:47.726 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:50:47.726 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:50:47.726 
+Total time taken: 13.363s
+18:50:47.727 Updates are available. Run `gauge update -c` for more info.
+18:51:20.946 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:51:22.926 Checking updates...
+18:55:51.720 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:55:54.096 Checking updates...
+18:55:57.720 Plugin [Html Report] with pid [7101] has exited
+18:55:58.227 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:55:58.227 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:55:58.227 
+Total time taken: 4m25.175s
+18:55:58.227 Updates are available. Run `gauge update -c` for more info.
+18:56:21.395 Plugin [Html Report] with pid [7173] has exited
+18:56:21.901 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:56:21.901 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:56:21.901 
+Total time taken: 20.266s
+18:56:21.901 Updates are available. Run `gauge update -c` for more info.
+18:56:48.448 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:56:50.285 Checking updates...
+18:57:18.374 Plugin [Html Report] with pid [7210] has exited
+18:57:18.878 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:57:18.878 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:57:18.878 
+Total time taken: 22.874s
+18:57:18.878 Updates are available. Run `gauge update -c` for more info.
+18:58:47.772 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+18:58:49.640 Checking updates...
+18:59:23.274 Plugin [Html Report] with pid [7256] has exited
+18:59:23.779 Specifications:	1 executed	0 passed	1 failed	0 skipped
+18:59:23.780 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+18:59:23.780 
+Total time taken: 28.811s
+18:59:23.780 Updates are available. Run `gauge update -c` for more info.
+19:08:20.960 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:08:22.826 Checking updates...
+19:08:59.819 Plugin [Html Report] with pid [7378] has exited
+19:09:00.322 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:09:00.322 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:09:00.322 
+Total time taken: 31.801s
+19:09:00.322 Updates are available. Run `gauge update -c` for more info.
+19:10:01.352 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:10:03.281 Checking updates...
+19:10:39.698 Plugin [Html Report] with pid [7426] has exited
+19:10:40.200 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:10:40.200 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:10:40.200 
+Total time taken: 31.341s
+19:10:40.200 Updates are available. Run `gauge update -c` for more info.
+19:13:45.359 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:13:47.112 Checking updates...
+19:14:24.064 Plugin [Html Report] with pid [7492] has exited
+19:14:24.579 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:14:24.580 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:14:24.580 
+Total time taken: 31.574s
+19:14:24.580 Updates are available. Run `gauge update -c` for more info.
+19:19:25.682 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:19:27.498 Checking updates...
+19:20:04.457 Plugin [Html Report] with pid [7590] has exited
+19:20:04.966 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:20:04.967 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:20:04.967 
+Total time taken: 32.049s
+19:20:04.967 Updates are available. Run `gauge update -c` for more info.
+19:20:45.702 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:20:48.718 Checking updates...
+19:21:22.809 Plugin [Html Report] with pid [7635] has exited
+19:21:23.313 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:21:23.313 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:21:23.313 
+Total time taken: 30.524s
+19:21:23.313 Updates are available. Run `gauge update -c` for more info.
+19:33:38.735 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:33:40.634 Checking updates...
+19:34:19.093 Plugin [Html Report] with pid [7744] has exited
+19:34:19.598 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:34:19.598 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:34:19.598 
+Total time taken: 33.024s
+19:34:19.598 Updates are available. Run `gauge update -c` for more info.
+19:35:10.290 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:35:12.267 Checking updates...
+19:38:36.010 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:38:37.733 Checking updates...
+19:38:53.292 Plugin [Html Report] with pid [7792] has exited
+19:38:53.292 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:38:53.293 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:38:53.293 
+Total time taken: 3m31.835s
+19:38:53.293 Updates are available. Run `gauge update -c` for more info.
+19:41:33.709 Plugin [Html Report] with pid [7857] has exited
+19:41:33.710 Specifications:	1 executed	0 passed	1 failed	0 skipped
+19:41:33.710 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+19:41:33.710 
+Total time taken: 2m45.918s
+19:41:33.710 Updates are available. Run `gauge update -c` for more info.
+19:41:46.819 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:41:48.592 Checking updates...
+19:42:37.687 Plugin [Html Report] with pid [7948] has exited
+19:42:37.789 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:42:37.789 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:42:37.789 
+Total time taken: 38.656s
+19:42:37.789 Updates are available. Run `gauge update -c` for more info.
+19:48:33.310 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+19:48:35.148 Checking updates...
+19:49:24.074 Plugin [Html Report] with pid [8067] has exited
+19:49:24.175 Specifications:	1 executed	1 passed	0 failed	0 skipped
+19:49:24.175 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+19:49:24.175 
+Total time taken: 42.789s
+19:49:24.175 Updates are available. Run `gauge update -c` for more info.
+21:06:43.306 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+21:06:43.763 Gauge daemon initialized and listening on port: 49944
+21:55:46.677 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+21:55:48.685 Checking updates...
+21:56:02.954 Plugin [Xml Report] with pid [2015] has exited
+21:56:03.270 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:56:03.270 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:56:03.271 
+Total time taken: 8.202s
+21:56:03.271 Updates are available. Run `gauge update -c` for more info.
+21:56:16.437 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+21:56:18.483 Checking updates...
+21:56:36.531 Plugin [Xml Report] with pid [2050] has exited
+21:56:37.048 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:56:37.048 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:56:37.048 
+Total time taken: 13.127s
+21:56:37.048 Updates are available. Run `gauge update -c` for more info.
+21:57:22.376 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+21:57:24.224 Checking updates...
+21:57:41.254 Plugin [Xml Report] with pid [2091] has exited
+21:57:41.757 Specifications:	1 executed	0 passed	1 failed	0 skipped
+21:57:41.757 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+21:57:41.757 
+Total time taken: 12.14s
+21:57:41.757 Updates are available. Run `gauge update -c` for more info.
+22:00:42.534 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:00:44.315 Checking updates...
+22:01:11.686 Plugin [Xml Report] with pid [2218] has exited
+22:01:12.189 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:01:12.189 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:01:12.190 
+Total time taken: 21.898s
+22:01:12.190 Updates are available. Run `gauge update -c` for more info.
+22:01:28.036 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:01:29.884 Checking updates...
+22:02:12.304 Plugin [Xml Report] with pid [2263] has exited
+22:02:12.809 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:02:12.809 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:02:12.810 
+Total time taken: 37.171s
+22:02:12.810 Updates are available. Run `gauge update -c` for more info.
+22:03:31.415 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:03:33.585 Checking updates...
+22:04:12.248 Plugin [Xml Report] with pid [2336] has exited
+22:04:12.765 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:04:12.765 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:04:12.765 
+Total time taken: 33.52s
+22:04:12.765 Updates are available. Run `gauge update -c` for more info.
+22:05:36.872 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:05:38.720 Checking updates...
+22:07:40.474 Plugin [Xml Report] with pid [2398] has exited
+22:07:40.977 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:07:40.977 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:07:40.977 
+Total time taken: 1m51.454s
+22:07:40.977 Updates are available. Run `gauge update -c` for more info.
+22:07:47.320 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:07:49.124 Checking updates...
+22:08:37.333 Plugin [Xml Report] with pid [2469] has exited
+22:08:37.541 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:08:37.541 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:08:37.541 
+Total time taken: 42.148s
+22:08:37.541 Updates are available. Run `gauge update -c` for more info.
+22:11:07.920 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:11:09.680 Checking updates...
+22:11:31.154 Plugin [Xml Report] with pid [2545] has exited
+22:11:31.658 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:11:31.658 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:11:31.658 
+Total time taken: 11.817s
+22:11:31.658 Updates are available. Run `gauge update -c` for more info.
+22:11:44.359 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:11:46.237 Checking updates...
+22:12:18.587 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:12:20.411 Checking updates...
+22:14:50.441 Plugin [Xml Report] with pid [2594] has exited
+22:14:50.945 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:14:50.945 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:14:50.945 
+Total time taken: 2m20.429s
+22:14:50.945 Updates are available. Run `gauge update -c` for more info.
+22:14:55.880 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:14:57.828 Checking updates...
+22:15:52.086 Plugin [Xml Report] with pid [2674] has exited
+22:15:52.190 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:15:52.190 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:15:52.190 
+Total time taken: 48.377s
+22:15:52.190 Updates are available. Run `gauge update -c` for more info.
+22:22:32.416 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:22:34.263 Checking updates...
+22:23:31.267 Plugin [Xml Report] with pid [2801] has exited
+22:23:31.369 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:23:31.369 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:23:31.369 
+Total time taken: 47.463s
+22:23:31.369 Updates are available. Run `gauge update -c` for more info.
+22:24:14.033 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:24:15.916 Checking updates...
+22:29:31.204 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:29:33.050 Checking updates...
+22:29:45.338 Plugin [Xml Report] with pid [2872] has exited
+22:29:45.338 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:29:45.338 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:29:45.338 
+Total time taken: 5m17.531s
+22:29:45.338 Updates are available. Run `gauge update -c` for more info.
+22:33:06.360 Plugin [Xml Report] with pid [2967] has exited
+22:33:06.864 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:33:06.864 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:33:06.864 
+Total time taken: 3m22.736s
+22:33:06.864 Updates are available. Run `gauge update -c` for more info.
+22:33:07.832 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:33:09.637 Checking updates...
+22:33:29.371 Plugin [Xml Report] with pid [3038] has exited
+22:33:29.883 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:33:29.883 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:33:29.883 
+Total time taken: 14.591s
+22:33:29.883 Updates are available. Run `gauge update -c` for more info.
+22:33:52.034 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:33:53.864 Checking updates...
+22:35:15.073 Plugin [Xml Report] with pid [3075] has exited
+22:35:15.578 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:35:15.578 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:35:15.578 
+Total time taken: 1m11.711s
+22:35:15.578 Updates are available. Run `gauge update -c` for more info.
+22:35:22.622 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:35:24.414 Checking updates...
+22:36:11.497 Plugin [Xml Report] with pid [3127] has exited
+22:36:11.599 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:36:11.600 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:36:11.600 
+Total time taken: 41.75s
+22:36:11.605 Updates are available. Run `gauge update -c` for more info.
+22:37:06.970 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:37:08.734 Checking updates...
+22:37:52.456 Plugin [Xml Report] with pid [3181] has exited
+22:37:52.561 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:37:52.561 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:37:52.561 
+Total time taken: 38.409s
+22:37:52.561 Updates are available. Run `gauge update -c` for more info.
+22:39:10.679 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:39:12.435 Checking updates...
+22:39:39.310 Plugin [Xml Report] with pid [3238] has exited
+22:39:39.816 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:39:39.816 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:39:39.816 
+Total time taken: 21.588s
+22:39:39.816 Updates are available. Run `gauge update -c` for more info.
+22:40:37.304 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:40:39.066 Checking updates...
+22:41:14.001 Plugin [Xml Report] with pid [3305] has exited
+22:41:14.516 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:41:14.519 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:41:14.519 
+Total time taken: 23.642s
+22:41:14.519 Updates are available. Run `gauge update -c` for more info.
+22:41:21.326 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:41:23.098 Checking updates...
+22:42:00.089 Plugin [Xml Report] with pid [3363] has exited
+22:42:00.593 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:42:00.593 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:42:00.593 
+Total time taken: 24.195s
+22:42:00.593 Updates are available. Run `gauge update -c` for more info.
+22:42:20.792 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:42:21.216 Gauge daemon initialized and listening on port: 61010
+22:42:34.390 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:42:36.116 Checking updates...
+22:46:28.717 Plugin [Xml Report] with pid [3415] has exited
+22:46:28.717 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:46:28.717 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:46:28.717 
+Total time taken: 3m42.628s
+22:46:28.717 Updates are available. Run `gauge update -c` for more info.
+22:46:32.832 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:46:34.702 Checking updates...
+22:47:13.630 Plugin [Xml Report] with pid [3563] has exited
+22:47:14.135 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:47:14.135 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:47:14.135 
+Total time taken: 33.704s
+22:47:14.135 Updates are available. Run `gauge update -c` for more info.
+22:48:05.631 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:48:07.477 Checking updates...
+22:52:57.620 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+22:52:59.625 Checking updates...
+22:53:02.298 Plugin [Xml Report] with pid [3627] has exited
+22:53:02.802 Specifications:	1 executed	0 passed	1 failed	0 skipped
+22:53:02.802 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+22:53:02.802 
+Total time taken: 4m45.545s
+22:53:02.802 Updates are available. Run `gauge update -c` for more info.
+22:53:56.326 Plugin [Xml Report] with pid [3721] has exited
+22:53:56.428 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:53:56.428 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:53:56.428 
+Total time taken: 49.275s
+22:53:56.429 Updates are available. Run `gauge update -c` for more info.
+23:07:02.081 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+23:07:03.925 Checking updates...
+23:07:48.777 Plugin [Xml Report] with pid [3986] has exited
+23:07:48.878 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:07:48.878 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:07:48.878 
+Total time taken: 38.965s
+23:07:48.879 Updates are available. Run `gauge update -c` for more info.
+23:47:27.640 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+23:47:29.455 Checking updates...
+23:47:50.591 Plugin [Xml Report] with pid [4181] has exited
+23:47:50.692 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:47:50.692 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:47:50.692 
+Total time taken: 15.759s
+23:47:50.693 Updates are available. Run `gauge update -c` for more info.
+23:53:02.110 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+23:53:03.947 Checking updates...
+23:53:26.933 Plugin [Xml Report] with pid [4294] has exited
+23:53:27.034 Specifications:	1 executed	1 passed	0 failed	0 skipped
+23:53:27.034 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+23:53:27.034 
+Total time taken: 17.715s
+23:53:27.035 Updates are available. Run `gauge update -c` for more info.
+00:15:35.422 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:15:37.381 Checking updates...
+00:16:18.467 Plugin [Xml Report] with pid [4647] has exited
+00:16:18.969 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:16:18.970 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:16:18.970 
+Total time taken: 35.53s
+00:16:18.970 Updates are available. Run `gauge update -c` for more info.
+00:16:32.741 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:16:34.623 Checking updates...
+00:17:04.753 Plugin [Xml Report] with pid [4700] has exited
+00:17:05.258 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:17:05.258 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:17:05.258 
+Total time taken: 24.055s
+00:17:05.258 Updates are available. Run `gauge update -c` for more info.
+00:17:25.021 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:17:26.847 Checking updates...
+00:18:14.565 Plugin [Xml Report] with pid [4739] has exited
+00:18:14.667 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:18:14.667 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:18:14.667 
+Total time taken: 41.547s
+00:18:14.667 Updates are available. Run `gauge update -c` for more info.
+00:25:39.310 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:25:41.079 Checking updates...
+00:26:33.959 Plugin [Xml Report] with pid [4875] has exited
+00:26:34.468 Specifications:	1 executed	0 passed	1 failed	0 skipped
+00:26:34.468 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+00:26:34.468 
+Total time taken: 47.614s
+00:26:34.468 Updates are available. Run `gauge update -c` for more info.
+00:30:19.278 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:30:21.285 Checking updates...
+00:31:05.490 Plugin [Xml Report] with pid [4967] has exited
+00:31:05.692 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:31:05.692 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:31:05.692 
+Total time taken: 39.162s
+00:31:05.692 Updates are available. Run `gauge update -c` for more info.
+00:37:51.141 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+00:37:52.939 Checking updates...
+00:38:24.255 Plugin [Xml Report] with pid [5098] has exited
+00:38:24.356 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:38:24.356 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:38:24.356 
+Total time taken: 24.148s
+00:38:24.356 Updates are available. Run `gauge update -c` for more info.
+09:21:12.615 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+09:21:13.617 Unable to send analytics data, timed out
+09:21:13.633 Gauge daemon initialized and listening on port: 49578
+09:21:46.256 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+09:21:47.260 Unable to send analytics data, timed out
+09:21:48.260 Unable to send analytics data, timed out
+09:21:49.841 Checking updates...
+09:22:36.173 Plugin [Xml Report] with pid [954] has exited
+09:22:36.374 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:22:36.374 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09:22:36.374 
+Total time taken: 41.153s
+09:22:36.374 Updates are available. Run `gauge update -c` for more info.
+09:58:57.374 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+09:58:58.218 Gauge daemon initialized and listening on port: 50312
+10:26:01.819 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+10:26:04.900 Checking updates...
+10:26:29.039 Plugin [Xml Report] with pid [1786] has exited
+10:26:29.141 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:26:29.141 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:26:29.141 
+Total time taken: 19.739s
+10:26:29.141 Updates are available. Run `gauge update -c` for more info.
+10:27:19.666 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+10:27:21.488 Checking updates...
+10:27:44.999 Plugin [Xml Report] with pid [1843] has exited
+10:27:45.101 Specifications:	1 executed	1 passed	0 failed	0 skipped
+10:27:45.101 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+10:27:45.101 
+Total time taken: 18.524s
+10:27:45.101 Updates are available. Run `gauge update -c` for more info.
+10:30:33.072 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+10:30:36.148 Checking updates...
+10:30:57.199 Plugin [Xml Report] with pid [1919] has exited
+10:30:57.708 Specifications:	1 executed	0 passed	1 failed	0 skipped
+10:30:57.714 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+10:30:57.714 
+Total time taken: 16.868s
+10:30:57.715 Updates are available. Run `gauge update -c` for more info.
+12:08:38.773 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+12:08:40.441 Checking updates...
+12:09:27.773 Plugin [Xml Report] with pid [2831] has exited
+12:09:28.288 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:09:28.288 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:09:28.288 
+Total time taken: 41.95s
+12:09:28.288 Updates are available. Run `gauge update -c` for more info.
+13:28:47.986 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+13:28:49.454 Checking updates...
+13:29:42.450 Plugin [Xml Report] with pid [2970] has exited
+13:29:42.751 Specifications:	1 executed	0 passed	1 failed	0 skipped
+13:29:42.751 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13:29:42.751 
+Total time taken: 47.698s
+13:29:42.752 Updates are available. Run `gauge update -c` for more info.
+13:33:36.844 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+13:33:38.523 Checking updates...
+13:34:25.144 Plugin [Xml Report] with pid [3063] has exited
+13:34:25.245 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:34:25.245 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:34:25.245 
+Total time taken: 41.706s
+13:34:25.245 Updates are available. Run `gauge update -c` for more info.
+13:34:42.960 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+13:34:44.772 Checking updates...
+13:35:30.971 Plugin [Xml Report] with pid [3119] has exited
+13:35:31.073 Specifications:	1 executed	1 passed	0 failed	0 skipped
+13:35:31.073 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13:35:31.073 
+Total time taken: 41.495s
+13:35:31.073 Updates are available. Run `gauge update -c` for more info.
+14:33:18.936 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+14:33:19.938 Unable to send analytics data, timed out
+14:33:19.951 Gauge daemon initialized and listening on port: 51927
+11:53:01.318 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+11:53:01.723 Gauge daemon initialized and listening on port: 50628
+15:37:46.892 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+15:37:47.296 Gauge daemon initialized and listening on port: 52678
+15:46:39.571 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+15:46:40.325 Gauge daemon initialized and listening on port: 52764
+11:50:01.730 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+11:50:02.465 Gauge daemon initialized and listening on port: 49261
+14:37:35.723 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+14:37:36.212 Gauge daemon initialized and listening on port: 52930
+14:38:07.078 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+14:38:07.930 Gauge daemon initialized and listening on port: 52941
+16:06:48.331 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+16:06:48.797 Gauge daemon initialized and listening on port: 63534
+13:52:16.513 Gauge Install ID: c6f5ee46-d83e-4e8f-8584-d43a45da59ed
+13:52:17.202 Gauge daemon initialized and listening on port: 53458
