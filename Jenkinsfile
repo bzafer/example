@@ -1,29 +1,20 @@
 pipeline {
   agent any
   stages {
-    stage('Build') {
+    stage('- - -clean- - -') {
       steps {
-        checkout scm
-        echo 'Building'
+       sh "mvn clean"
       }
     }
-    stage('Some Testing') {
+    stage('- - - test- - - ') {
       steps {
-        parallel(
-          "Step 1": {
-            echo 'Step 1'
-
-          },
-          "Step 2": {
-            echo 'Step 2'
-
-          }
-        )
-      }
+        sh "mvn test-compile gauge:execute -DspecsDir=specs -Dtags='PlanYourJourney'"
     }
-    stage('Send Mail') {
+        }
+
+    stage('- - package - -') {
       steps {
-        echo "sending mail"
+        sh "mvn package"
       }
     }
   }
