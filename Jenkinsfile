@@ -1,26 +1,30 @@
 pipeline {
-    agent any
-
-    stages {
-        stage('Build') {
-            steps {
-                echo 'Building.. This is the build phase'
-            }
-        }
-        stage('Test') {
-            steps {
-                echo 'Testing.. This is the testing phase'
-            }
-        }
-        stage('Deploy') {
-            steps {
-                echo 'Deploying....  This is the deployment phase'
-            }
-        }
-	stage('Postdeploy') {
-		steps {
-			echo 'Postdeployment phase....'
-		}
-	}
+  agent any
+  stages {
+    stage('Build') {
+      steps {
+        checkout scm
+        echo 'Building'
+      }
     }
+    stage('Some Testing') {
+      steps {
+        parallel(
+          "Step 1": {
+            echo 'Step 1'
+
+          },
+          "Step 2": {
+            echo 'Step 2'
+
+          }
+        )
+      }
+    }
+    stage('Send Mail') {
+      steps {
+        echo "sending mail"
+      }
+    }
+  }
 }
